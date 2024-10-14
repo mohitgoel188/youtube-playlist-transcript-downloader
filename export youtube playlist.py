@@ -3,7 +3,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import os
 
 # Set the URL of the YouTube playlist and output file name
-playlist_url = 'https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv'
+playlist_url = 'Your Playlist URL'
 output_file = 'playlist_transcripts.txt'
 
 # yt-dlp options to fetch video info without downloading
